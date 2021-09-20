@@ -1,0 +1,55 @@
+D:\Anaconda\python.exe F:/foot_vibration/main.py
+Processing pzc's data...
+=========Change energy threshold from 1500 to 1490
+Change energy threshold from 1490 to 1480
+Change energy threshold from 1480 to 1470
+===Change energy threshold from 1470 to 1460
+Change energy threshold from 1460 to 1450
+Change energy threshold from 1450 to 1440
+=Change energy threshold from 1440 to 1430
+Change energy threshold from 1430 to 1420
+============Change energy threshold from 1420 to 1410
+Change energy threshold from 1410 to 1400
+Change energy threshold from 1400 to 1390
+Change energy threshold from 1390 to 1380
+==========Change energy threshold from 1380 to 1370
+Change energy threshold from 1370 to 1360
+Change energy threshold from 1360 to 1350
+===================Change energy threshold from 1350 to 1340
+Change energy threshold from 1340 to 1330
+Change energy threshold from 1330 to 1320
+=======> 100%  Training pzc's model
+Success in building pzc's model!
+Processing yjn's data...
+=============================================================> 100%  Training yjn's model
+Success in building yjn's model!
+Processing zyh's data...
+==Change energy threshold from 1320 to 1310
+Change energy threshold from 1310 to 1300
+Change energy threshold from 1300 to 1290
+Change energy threshold from 1290 to 1280
+Change energy threshold from 1280 to 1270
+Change energy threshold from 1270 to 1260
+Change energy threshold from 1260 to 1250
+Change energy threshold from 1250 to 1240
+Change energy threshold from 1240 to 1230
+Change energy threshold from 1230 to 1220
+======================================Change energy threshold from 1220 to 1210
+Change energy threshold from 1210 to 1200
+Change energy threshold from 1200 to 1190
+Change energy threshold from 1190 to 1180
+Change energy threshold from 1180 to 1170
+Change energy threshold from 1170 to 1160
+Change energy threshold from 1160 to 1150
+Change energy threshold from 1150 to 1140
+Change energy threshold from 1140 to 1130
+=====================> 100%  Training zyh's model
+Success in building zyh's model!
+Processing zl's data...
+=============================================================> 100%  Training zl's model
+Success in building zl's model!
+Processing hwl's data...
+=============================================================> 100%  Training hwl's model
+Success in building hwl's model!
+
+Process finished with exit code 0
